@@ -50,7 +50,7 @@ for a complete list of permissions you may grant.
 {
     "id": "databases",
     "databases": {
-        "forums": {
+        "{INSERT_DATABASE_NAME_HERE}": {
             "init.sql": "/path/to/app/*.sql",
             "permissions": [
                 {
